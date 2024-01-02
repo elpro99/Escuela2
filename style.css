@@ -1,0 +1,17 @@
+#video{
+    width:100%;
+    height:1000px;
+    border: none;
+}
+.travel_nainDiv
+{
+border:1px solid lightgray;
+}
+.travel_nainDiv img
+{
+    width: 100%;
+}
+.travel_nainDiv h5 , .travel_nainDiv p
+{
+    margin: 20px;
+}
